@@ -1,7 +1,7 @@
 .cards-area-container {
     height: 41rem;
     width: 25rem;
-    background-color: #f1aac1;
+    background-color: #580a23;
     margin: 0 auto;
     border-radius: 1rem;
     display: grid;
@@ -14,7 +14,7 @@
  .bars {
      height: 41rem;
      width: 5rem;
-     background-color: #7e0028;
+     background-color: #f989ad;
      position: relative;
      transform: rotate(-45deg);
      top: -40rem;
@@ -25,7 +25,7 @@
  .language-title {
      grid-area: top;
      text-align: center;
-     color: #4b0018;
+     color: #f9ebef;
      font-weight: bold;
      font-size: 2rem;
      margin-top:1rem;
